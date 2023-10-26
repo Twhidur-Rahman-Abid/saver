@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+.b-red {
+  @apply border-2 border-solid border-red-600;
+}
+@tailwind utilities;
