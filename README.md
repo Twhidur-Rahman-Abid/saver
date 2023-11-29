@@ -4,7 +4,7 @@ Introducing the Saver web application In this project, I use React with TypeScri
 
 ## Demo
 
-[Live]([https://github.com/Twhidur-Rahman-Abid/saver](https://tra-todo.netlify.app/)
+[Live](https://tra-todo.netlify.app/)
 
 [Github](https://github.com/Twhidur-Rahman-Abid/saver)
 
